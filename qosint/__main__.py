@@ -12,4 +12,5 @@ if __name__ == "__main__":
         print("QOSINT requires Python 3.6+, but you are using Python %s, which is not supported by QOSINT" % (python_version))
         sys.exit(1)
 
-    
+    import updater
+    updater.update()

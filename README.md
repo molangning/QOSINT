@@ -1,6 +1,13 @@
 # QOSINT
 Quick OSINT tool
 
+## Clone url
+
+You can clone the repository with the following command:
+`git clone https://github.com/molangning/QOSINT.git --recursive`
+
+
+
 ## What is QOSINT?
 
 QOSINT python module combining all OSINT methods into one tool for ease of access
@@ -27,3 +34,4 @@ Bugs and suggestions are always welcome in issues.
 This could not be made without the following projects
 
 [sherlock by sherlock-project](https://github.com/sherlock-project/sherlock)
+[holehe by megadose](https://github.com/megadose/holehe)
