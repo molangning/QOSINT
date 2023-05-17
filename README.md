@@ -19,6 +19,7 @@ QOSINT python module combining all OSINT methods into one tool for ease of acces
 - [ ] Dns search (check if there is any domains registered that contains the target name)
 - [ ] 1337 mutators (username)
 - [ ] Custom mutators (username)
+
 ## Star me!
 
 Staring this project is one way for me to let me know that you found this useful, so please star this project!

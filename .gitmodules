@@ -1,3 +1,4 @@
 [submodule "qosint/modules/sherlock"]
 	path = qosint/modules/sherlock
 	url = https://github.com/sherlock-project/sherlock.git
+	branch = master
