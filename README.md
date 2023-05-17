@@ -26,4 +26,4 @@ Bugs and suggestions are always welcome in issues.
 
 This could not be made without the following projects
 
-[sherlock](https://github.com/sherlock-project/sherlock)
+[sherlock by sherlock-project](https://github.com/sherlock-project/sherlock)
