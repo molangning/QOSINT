@@ -22,5 +22,8 @@ Bugs and suggestions are always welcome in issues.
 
 
 
-Used project:
-    [sherlock](https://github.com/sherlock-project/sherlock)
+## Credits:
+
+This could not be made without the following projects
+
+[sherlock](https://github.com/sherlock-project/sherlock)
