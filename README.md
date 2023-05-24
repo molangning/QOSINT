@@ -1,5 +1,5 @@
 # QOSINT
-Quick OSINT tool
+Quick OSINT tool, still in progress
 
 ## Clone url
 
